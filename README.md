@@ -1,6 +1,6 @@
 - 👋 Hi, I’m patrick!
 - 👀 I’m interested in learning how to develop software applications, as well as web applications.
-- 🌱 I’m currently learning c# on pluralsight.
+- 🌱 I’m currently learning c# .
 - 💞️ I’m looking to collaborate with my close friend Theron, as we build knowledge and experience together.
 - 📫 you can email: patrickstephenk@gmail.com 
 
